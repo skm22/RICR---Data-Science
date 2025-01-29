@@ -1,0 +1,203 @@
+income level,satisfaction rating,purchased
+less than 50K,neutral,no
+50K-100K,like,yes
+over 100K,extremely dislike,no
+less than 50K,like,yes
+50K-100K,extremely like,yes
+less than 50K,dislike,no
+over 100K,neutral,yes
+50K-100K,neutral,no
+less than 50K,extremely like,yes
+over 100K,dislike,no
+50K-100K,neutral,yes
+over 100K,extremely like,no
+less than 50K,neutral,no
+50K-100K,dislike,yes
+over 100K,like,yes
+less than 50K,extremely dislike,no
+50K-100K,like,yes
+over 100K,neutral,no
+less than 50K,like,no
+50K-100K,extremely dislike,yes
+over 100K,dislike,no
+less than 50K,neutral,yes
+50K-100K,like,yes
+over 100K,extremely dislike,no
+less than 50K,neutral,yes
+50K-100K,extremely like,no
+over 100K,dislike,yes
+less than 50K,like,no
+50K-100K,neutral,yes
+over 100K,extremely like,no
+less than 50K,dislike,yes
+50K-100K,neutral,no
+over 100K,like,yes
+less than 50K,extremely dislike,no
+50K-100K,neutral,yes
+over 100K,dislike,no
+less than 50K,like,yes
+50K-100K,extremely like,no
+over 100K,neutral,yes
+less than 50K,neutral,no
+50K-100K,dislike,yes
+over 100K,extremely like,no
+less than 50K,like,no
+50K-100K,neutral,yes
+over 100K,extremely dislike,yes
+less than 50K,neutral,no
+50K-100K,dislike,yes
+over 100K,like,no
+less than 50K,extremely like,yes
+50K-100K,neutral,no
+over 100K,neutral,yes
+less than 50K,like,no
+50K-100K,dislike,yes
+over 100K,extremely like,no
+less than 50K,neutral,yes
+50K-100K,neutral,no
+over 100K,dislike,yes
+less than 50K,like,yes
+50K-100K,like,no
+over 100K,extremely like,yes
+less than 50K,neutral,no
+50K-100K,dislike,yes
+over 100K,extremely like,no
+less than 50K,like,no
+50K-100K,neutral,yes
+over 100K,dislike,yes
+less than 50K,extremely like,no
+50K-100K,neutral,yes
+over 100K,extremely dislike,no
+less than 50K,dislike,yes
+50K-100K,like,no
+over 100K,neutral,yes
+less than 50K,extremely like,no
+50K-100K,extremely dislike,yes
+over 100K,like,no
+less than 50K,neutral,yes
+50K-100K,dislike,no
+over 100K,extremely like,yes
+less than 50K,like,no
+50K-100K,neutral,yes
+over 100K,extremely dislike,no
+less than 50K,dislike,yes
+50K-100K,like,no
+over 100K,neutral,yes
+less than 50K,extremely like,no
+50K-100K,dislike,yes
+over 100K,like,no
+less than 50K,neutral,yes
+50K-100K,neutral,no
+over 100K,dislike,yes
+less than 50K,extremely like,no
+50K-100K,dislike,yes
+over 100K,neutral,no
+less than 50K,neutral,yes
+50K-100K,like,no
+over 100K,extremely dislike,yes
+less than 50K,dislike,no
+50K-100K,neutral,yes
+over 100K,like,no
+less than 50K,extremely like,yes
+50K-100K,extremely dislike,no
+over 100K,neutral,yes
+less than 50K,like,no
+50K-100K,neutral,yes
+over 100K,extremely like,no
+less than 50K,neutral,yes
+50K-100K,like,no
+over 100K,dislike,yes
+less than 50K,extremely like,no
+50K-100K,extremely dislike,yes
+over 100K,like,no
+less than 50K,neutral,yes
+50K-100K,dislike,no
+over 100K,extremely like,yes
+less than 50K,neutral,no
+50K-100K,like,yes
+over 100K,extremely dislike,no
+less than 50K,dislike,yes
+50K-100K,extremely like,no
+over 100K,neutral,yes
+less than 50K,neutral,no
+50K-100K,dislike,yes
+over 100K,like,no
+less than 50K,extremely dislike,yes
+50K-100K,neutral,no
+over 100K,neutral,yes
+less than 50K,like,no
+50K-100K,extremely dislike,yes
+over 100K,dislike,no
+less than 50K,extremely like,yes
+50K-100K,neutral,no
+over 100K,like,yes
+less than 50K,dislike,no
+50K-100K,extremely dislike,yes
+over 100K,neutral,no
+less than 50K,extremely like,yes
+50K-100K,dislike,no
+over 100K,like,yes
+less than 50K,neutral,no
+50K-100K,neutral,yes
+over 100K,dislike,no
+less than 50K,like,yes
+50K-100K,extremely like,no
+over 100K,neutral,yes
+less than 50K,dislike,no
+50K-100K,neutral,yes
+over 100K,extremely like,no
+less than 50K,neutral,yes
+50K-100K,dislike,no
+over 100K,neutral,yes
+less than 50K,like,no
+50K-100K,extremely like,yes
+over 100K,dislike,no
+less than 50K,neutral,yes
+50K-100K,neutral,no
+over 100K,extremely dislike,yes
+less than 50K,like,no
+50K-100K,dislike,yes
+over 100K,neutral,no
+less than 50K,extremely like,yes
+50K-100K,like,no
+over 100K,dislike,yes
+less than 50K,extremely dislike,no
+50K-100K,neutral,yes
+over 100K,neutral,no
+less than 50K,dislike,yes
+50K-100K,like,no
+over 100K,extremely dislike,yes
+less than 50K,neutral,no
+50K-100K,neutral,yes
+over 100K,like,no
+less than 50K,extremely like,yes
+50K-100K,dislike,no
+over 100K,neutral,yes
+less than 50K,extremely like,yes
+50K-100K,like,no
+over 100K,neutral,yes
+less than 50K,dislike,no
+50K-100K,extremely dislike,yes
+over 100K,like,no
+less than 50K,extremely like,yes
+50K-100K,neutral,no
+over 100K,neutral,yes
+less than 50K,like,no
+50K-100K,dislike,yes
+over 100K,like,no
+less than 50K,neutral,yes
+50K-100K,extremely like,no
+over 100K,neutral,yes
+less than 50K,extremely like,yes
+50K-100K,like,no
+over 100K,dislike,yes
+less than 50K,neutral,no
+50K-100K,neutral,yes
+over 100K,extremely dislike,no
+less than 50K,like,yes
+50K-100K,extremely like,no
+over 100K,neutral,yes
+less than 50K,dislike,no
+50K-100K,neutral,yes
+over 100K,dislike,no
+less than 50K,like,yes
