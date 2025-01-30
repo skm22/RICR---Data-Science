@@ -1,0 +1,1001 @@
+gender,race/ethnicity,parental level of education,lunch,test preparation course,math score,reading score,writing score
+female,group B,bachelor's degree,standard,none,72.51886807,72.34116254,74.60484295
+female,group C,some college,standard,completed,69.37278579,90.69351182,88.43453592
+female,group B,master's degree,standard,none,90.74729658,95.97268896,93.36438303
+male,group A,associate's degree,free/reduced,none,47.31182632,57.33603753,44.19731852
+male,group C,some college,standard,none,76.94871954,78.92010371,75.31715743
+female,group B,associate's degree,standard,none,71.74924278,83.98709,78.1069335
+female,group B,some college,standard,completed,88.95529216,95.04017913,92.84913146
+male,group B,some college,free/reduced,none,40.36979929,43.05810329,39.30202241
+male,group D,high school,free/reduced,completed,64.17306722,64.43446839,67.57280101
+female,group B,high school,free/reduced,none,38.94597266,60.17158896,50.7611342
+male,group C,associate's degree,standard,none,58.81587997,54.92341329,52.27850283
+male,group D,associate's degree,standard,none,40.88288004,52.76135332,43.96096131
+female,group B,high school,standard,none,65.88544911,81.09456199,73.60999084
+male,group A,some college,standard,completed,78.16599455,72.45679512,70.63379169
+female,group A,master's degree,standard,none,50.48791536,53.80759363,58.77554713
+female,group C,some high school,standard,none,69.78134843,75.49449951,78.54325618
+male,group C,high school,standard,none,88.8647526,89.98131111,86.96376595
+female,group B,some high school,free/reduced,none,18.10041817,32.36710477,28.01080069
+male,group C,master's degree,free/reduced,completed,46.89333526,42.08230512,46.86413837
+female,group C,associate's degree,free/reduced,none,54.05218086,58.05674025,61.77103751
+male,group D,high school,standard,none,66.88281023,69.54124418,63.98498278
+female,group B,some college,free/reduced,completed,65.73568765,75.63429916,70.85746696
+male,group D,some college,standard,none,44.33945663,54.20737926,53.85848163
+female,group C,some high school,standard,none,69.27527253,73.61830754,73.82953963
+male,group D,bachelor's degree,free/reduced,completed,74.95117304,71.19183341,80.51824858
+male,group A,master's degree,free/reduced,none,73.37920852,74.68372528,72.47737054
+male,group B,some college,standard,none,69.35045975,54.69911181,55.55487279
+female,group C,bachelor's degree,standard,none,67.1316653,69.80247639,75.83598681
+male,group C,high school,standard,none,70.7674183,70.67746234,65.06956307
+female,group D,master's degree,standard,none,62.73164752,70.40474257,75.06838871
+female,group D,some college,standard,none,69.69391913,74.28162393,74.83590067
+female,group B,some college,standard,none,63.4906049,65.92344068,61.70850649
+female,group E,master's degree,free/reduced,none,56.55488575,72.5809029,65.0966016
+male,group D,some college,standard,none,40.92527076,42.82766004,38.46120881
+male,group E,some college,standard,none,97.83406335,87.12358698,82.45660868
+male,group E,associate's degree,standard,completed,81.61658944,81.34867892,79.93310385
+female,group D,associate's degree,standard,none,74.03895641,81.57459021,83.37831125
+female,group D,some high school,free/reduced,none,50.02251856,64.1576002,59.33487215
+female,group D,associate's degree,free/reduced,completed,75.28726826,90.67044652,88.46969182
+male,group B,associate's degree,free/reduced,none,57.05233103,56.13535877,57.12919903
+male,group C,associate's degree,free/reduced,none,55.56599517,61.20651587,54.7322851
+female,group C,associate's degree,standard,none,58.2757032,73.45611794,68.84286702
+female,group B,associate's degree,standard,none,53.84270995,58.2351603,65.95267516
+male,group B,some college,free/reduced,completed,59.1023969,65.12300318,66.82324051
+female,group E,associate's degree,free/reduced,none,50.74729435,56.40230611,54.44225088
+male,group B,associate's degree,standard,none,65.72784385,54.01563742,57.03078955
+female,group A,associate's degree,standard,completed,55.6972882,65.57498055,62.29326754
+female,group C,high school,standard,none,66.14312859,71.59974262,76.82919181
+female,group D,associate's degree,free/reduced,completed,57.05073802,74.24017343,76.93263334
+male,group C,high school,standard,completed,82.08183396,84.88449901,82.02233889
+male,group E,some college,standard,none,53.93243728,55.48159681,48.85562985
+male,group E,associate's degree,free/reduced,completed,77.75271563,69.07368965,68.98804302
+male,group C,some college,standard,none,53.48086223,44.3427559,42.60134439
+male,group D,high school,standard,none,88.71989238,78.41030063,75.52669487
+female,group C,some high school,free/reduced,completed,71.51053447,84.1964203,87.79757687
+female,group C,high school,free/reduced,none,33.31672682,41.39198996,43.81329211
+female,group E,associate's degree,standard,completed,82.28246854,85.40136678,86.97504254
+male,group D,associate's degree,standard,none,52.72666819,55.52898155,49.03562263
+male,group D,some college,standard,completed,58.25832159,59.18903564,58.69053208
+female,group C,some high school,free/reduced,none,0.583379992,17.04775468,10.84635783
+male,group E,bachelor's degree,free/reduced,completed,79.8736736,74.55946669,72.93204741
+male,group A,some high school,free/reduced,none,39.8648349,39.43917837,34.40948528
+male,group A,associate's degree,free/reduced,none,62.45324968,61.51356474,55.28595512
+female,group C,associate's degree,standard,none,69.81241798,80.91344801,71.52516535
+female,group D,some high school,standard,none,59.23908773,58.86443195,59.0399552
+male,group B,some high school,standard,none,67.16549019,64.55261062,61.09954534
+male,group D,some high school,free/reduced,none,45.88336279,37.93853524,37.71578342
+female,group C,some college,standard,none,60.30319273,72.1837866,74.42271244
+male,group B,associate's degree,free/reduced,none,61.26635682,58.30864999,56.72855133
+female,group C,associate's degree,standard,none,39.04370497,64.16043005,57.17021851
+female,group D,some college,free/reduced,completed,58.29979604,63.38731179,73.27537606
+male,group D,some college,standard,completed,63.98089517,55.68921472,63.18212897
+female,group A,associate's degree,free/reduced,none,41.71696145,51.19728888,48.64743278
+male,group C,some high school,free/reduced,none,61.05261462,57.77399414,56.11361687
+male,group C,some high school,standard,none,49.64681672,49.86061513,41.31519
+male,group B,associate's degree,free/reduced,none,44.95275784,41.91090985,38.35516483
+male,group E,some high school,standard,none,30.72430294,26.5258776,22.52592046
+male,group A,bachelor's degree,standard,completed,80.87550733,78.24600911,81.08805062
+female,group D,some high school,standard,completed,61.77542464,74.19179861,72.76034881
+female,group E,master's degree,standard,none,62.63590616,68.01950427,68.48847495
+female,group B,associate's degree,standard,none,47.69404385,49.46520956,50.17060006
+male,group B,high school,free/reduced,none,49.78007586,45.44403807,45.36465104
+male,group A,some college,free/reduced,completed,50.31635002,47.24613375,54.74770081
+male,group E,associate's degree,standard,none,72.37560931,64.15890254,63.23084629
+male,group D,high school,free/reduced,none,42.84178922,39.61651293,34.02277803
+female,group C,some college,standard,none,73.30044815,80.63682714,82.84521525
+female,group C,some college,free/reduced,none,76.06980723,83.49195403,88.86376551
+female,group D,associate's degree,standard,none,71.67995087,71.15206051,74.54851147
+female,group A,some college,standard,none,58.75392349,70.41316915,67.59519664
+female,group D,some high school,standard,none,73.81153693,86.58127025,82.18697986
+female,group C,bachelor's degree,standard,none,65.2322758,72.95191655,74.28432109
+male,group C,high school,free/reduced,none,27.96553588,34.71538264,36.28981077
+male,group C,high school,standard,none,71.26744251,79.88066498,71.51272633
+male,group C,associate's degree,free/reduced,completed,43.06103649,45.81508911,50.66013329
+female,group B,some college,standard,none,79.62354185,86.90310696,92.60080731
+male,group C,associate's degree,free/reduced,completed,78.08573749,81.18730039,82.72152152
+male,group B,some high school,standard,completed,65.71123789,66.85382844,62.01688791
+female,group E,some college,standard,completed,63.98108884,72.41312011,70.79502723
+female,group D,some college,free/reduced,none,58.02580339,67.31210323,62.42803312
+female,group D,bachelor's degree,standard,none,65.37058786,67.95017707,62.87865859
+male,group B,some college,standard,none,79.58775733,67.64480297,67.79492937
+male,group D,bachelor's degree,standard,completed,68.92274873,74.8653674,74.57299276
+female,group D,associate's degree,standard,none,85.15128849,91.39608227,89.80305447
+male,group B,high school,standard,completed,60.97678485,44.93743356,47.81301518
+male,group C,some college,standard,completed,98.64903979,86.59722171,90.43241608
+female,group C,some college,standard,none,58.17375559,67.4576285,72.37136892
+female,group D,master's degree,standard,none,87.80371903,100.4191556,100.3371248
+male,group E,associate's degree,standard,completed,66.08914181,63.58347866,64.89125518
+female,group B,associate's degree,free/reduced,none,52.21065679,76.58657894,70.78076487
+female,group B,some high school,standard,none,70.44605361,64.84187907,72.56873003
+female,group D,associate's degree,free/reduced,completed,77.87839876,89.67835259,98.39697069
+male,group C,high school,standard,none,62.81271849,55.05974881,49.34594629
+male,group A,associate's degree,standard,none,54.15259768,53.76444691,47.17102382
+female,group D,some college,standard,none,51.1104329,58.6854371,54.63577025
+female,group E,bachelor's degree,standard,completed,99.38996942,100.9753593,100.5124099
+male,group C,high school,standard,none,84.85320144,77.59280033,74.13692411
+female,group B,bachelor's degree,free/reduced,none,75.11347521,85.07147423,82.4851134
+female,group D,bachelor's degree,standard,none,78.15624433,82.12600262,79.68538306
+female,group D,some high school,standard,none,51.23059595,63.32112694,61.36710225
+female,group C,some college,standard,none,55.43526001,69.27991561,65.48079504
+female,group C,bachelor's degree,standard,completed,79.63572264,92.09151215,89.17836966
+male,group B,associate's degree,standard,completed,91.90600648,89.29365491,92.01504377
+female,group C,some college,standard,completed,88.72555642,93.92910741,93.36295809
+male,group D,high school,free/reduced,none,63.80514885,57.03948782,56.26433762
+male,group E,some college,standard,none,83.29124856,80.41447006,73.91883612
+female,group B,high school,standard,none,87.15778428,95.68091905,86.88129131
+male,group B,some high school,standard,none,72.92273186,68.84438676,67.33115579
+male,group D,some college,standard,completed,65.74960589,77.58738273,74.03671728
+male,group D,master's degree,standard,none,82.13644563,82.09056612,74.37456079
+female,group A,bachelor's degree,standard,none,51.90043489,49.34396828,51.60269275
+male,group D,master's degree,standard,none,89.05736721,84.33699879,82.61520696
+male,group C,some high school,free/reduced,completed,53.9092061,37.08544422,40.96013396
+male,group E,some college,free/reduced,completed,87.10894459,74.31591014,70.7944104
+female,group C,some college,standard,completed,75.0937317,81.58455067,84.96389794
+male,group D,bachelor's degree,free/reduced,completed,74.59280848,79.53686068,75.09291088
+male,group C,bachelor's degree,standard,none,58.95435671,55.91542478,48.94652798
+male,group B,some high school,standard,completed,51.09969999,54.24782773,41.45711997
+male,group E,high school,standard,none,70.98204733,55.66851985,56.80286174
+female,group C,associate's degree,standard,none,59.64035588,66.66209342,67.1609566
+male,group D,some college,standard,completed,71.33937686,61.96881286,69.05873331
+female,group D,some high school,standard,none,76.9431058,72.81393371,71.8390898
+female,group C,some college,free/reduced,none,59.93483353,62.21795279,64.43261173
+female,group E,some college,free/reduced,completed,42.83318426,55.87031953,54.27676801
+male,group A,high school,standard,none,57.51022431,43.43508054,47.28968532
+male,group D,some college,standard,none,88.30484508,73.33039361,78.42876727
+female,group C,some college,free/reduced,none,22.40114641,39.09321755,33.47553818
+male,group B,some high school,standard,none,88.55771438,84.30178873,75.65689421
+male,group C,associate's degree,free/reduced,none,73.61551657,68.19080741,66.98606033
+female,group D,bachelor's degree,standard,completed,68.6727379,75.76562683,81.36379291
+male,group E,associate's degree,free/reduced,completed,100.4094986,100.5570704,93.42817707
+male,group A,some high school,standard,completed,62.93895657,67.08769709,69.06098358
+male,group A,bachelor's degree,standard,none,77.25123157,67.94259669,68.31403915
+female,group B,associate's degree,standard,completed,59.49458538,70.69811786,66.5472807
+male,group D,bachelor's degree,standard,none,54.92927088,49.25083358,47.84439757
+male,group D,some high school,standard,none,62.38477068,67.87676819,61.7341078
+female,group C,some college,standard,completed,70.24491473,89.50356763,88.85237037
+female,group E,high school,free/reduced,completed,66.46951945,74.01897174,78.7938473
+male,group B,some college,free/reduced,none,60.76607982,60.62805464,60.56130229
+female,group B,associate's degree,standard,completed,61.44688657,86.7335443,87.62548503
+male,group D,associate's degree,free/reduced,none,66.8403094,62.35084314,64.59217135
+male,group B,associate's degree,free/reduced,completed,82.49717165,78.68328643,74.02718999
+female,group E,some college,free/reduced,completed,75.73766308,88.73676114,85.37676642
+male,group B,master's degree,free/reduced,none,49.66426289,53.49458842,52.4281232
+male,group C,high school,standard,none,52.59704777,53.02022648,49.48820482
+female,group E,master's degree,standard,none,81.18790446,92.30683715,91.81415698
+female,group C,bachelor's degree,standard,completed,96.84430606,100.9309663,100.4638447
+male,group C,high school,free/reduced,completed,53.85104403,51.09059575,51.6421126
+female,group B,master's degree,free/reduced,completed,58.68479158,76.59381663,78.61549794
+female,group B,high school,standard,completed,68.09040449,83.88650145,78.05199171
+female,group C,some college,free/reduced,completed,67.93531839,75.91714952,70.86190114
+male,group A,high school,standard,completed,72.23969741,73.51219305,74.79762472
+male,group E,some high school,standard,none,94.18605716,88.08016764,78.80267652
+female,group D,some college,standard,none,79.4819168,86.98450903,81.95974376
+female,group C,associate's degree,standard,none,63.69097675,67.91569204,70.56295715
+female,group C,bachelor's degree,free/reduced,completed,43.58153281,51.33368122,54.53216604
+female,group C,master's degree,standard,completed,81.75031081,91.67800522,87.98086281
+female,group B,high school,free/reduced,completed,46.62891269,54.97117551,58.20696325
+female,group C,associate's degree,standard,completed,71.03003122,77.63628807,77.8927788
+female,group B,master's degree,free/reduced,completed,52.25073729,70.9225807,62.32517135
+female,group D,some high school,standard,completed,97.75598197,100.6391666,100.4507617
+male,group C,master's degree,free/reduced,completed,62.33376769,68.17127209,75.34085676
+female,group C,some college,free/reduced,none,46.31730636,64.3242518,66.82443101
+female,group E,high school,standard,none,50.07275385,50.86319211,47.54851926
+female,group D,associate's degree,standard,none,65.73763378,69.47797539,70.19409682
+male,group C,some high school,free/reduced,completed,45.20986643,52.08028133,49.97019157
+male,group C,associate's degree,free/reduced,completed,65.41392297,67.75595596,65.05633643
+male,group E,high school,standard,none,80.86134225,76.15742819,65.4477953
+male,group D,some high school,standard,completed,62.44189583,66.26827418,68.44161374
+male,group B,some high school,free/reduced,none,48.48141766,52.28818644,45.02638494
+female,group C,bachelor's degree,standard,none,77.71641742,88.49172499,87.95649678
+female,group E,associate's degree,standard,none,66.16097232,65.40189705,69.27988249
+male,group D,some college,standard,completed,76.23130124,83.26524507,79.55762331
+female,group B,some high school,standard,none,62.49526219,64.17418722,66.05864227
+male,group D,some college,standard,completed,77.38280655,62.28536749,62.24788849
+female,group C,master's degree,standard,completed,69.52201096,84.51849486,85.76961018
+male,group D,associate's degree,standard,none,61.66069235,55.11924971,52.27266484
+male,group C,some high school,free/reduced,completed,59.12276855,69.78777237,65.95499604
+male,group E,high school,free/reduced,none,55.42122962,56.28332165,51.98800299
+female,group B,some college,free/reduced,none,45.6933443,53.785512,55.58422954
+female,group B,bachelor's degree,free/reduced,none,78.19681019,79.32711229,76.66591739
+female,group C,associate's degree,standard,completed,67.20739342,84.88735162,86.60754528
+female,group D,some college,free/reduced,none,65.67546214,81.53907558,77.80715124
+male,group C,associate's degree,standard,none,69.33045427,77.59710048,69.76897402
+female,group B,associate's degree,standard,none,57.96473346,69.70031299,68.9642374
+male,group C,some college,standard,none,59.78346914,41.20980962,42.90704499
+male,group D,some high school,standard,completed,74.17809873,71.75323376,78.76019932
+male,group E,bachelor's degree,standard,none,82.24239958,62.98733588,62.15147875
+male,group E,high school,standard,completed,81.03328269,80.26842475,76.18123401
+female,group B,some college,free/reduced,none,74.85835982,81.4496124,76.52408539
+female,group B,some college,free/reduced,none,58.90343979,61.681289,66.42517528
+male,group D,some high school,free/reduced,completed,80.03631602,79.63374831,79.54921369
+male,group C,some college,free/reduced,none,35.98733963,28.93623148,27.59297652
+female,group C,high school,free/reduced,none,42.87206137,62.10275332,60.28176116
+male,group C,associate's degree,free/reduced,completed,60.7127235,51.30343167,56.0767955
+male,group E,high school,standard,completed,87.23933514,91.05746486,81.98504108
+male,group B,some high school,standard,completed,84.58859277,83.1250797,75.75828174
+female,group E,associate's degree,free/reduced,completed,83.03847477,86.42404367,88.13522131
+female,group C,high school,free/reduced,none,34.42346166,42.87851072,39.53903123
+male,group B,high school,free/reduced,none,66.25388997,77.78111265,70.39027256
+male,group B,some high school,standard,completed,61.40595622,56.20705243,56.70010983
+female,group D,high school,standard,completed,56.73862692,68.16636123,74.62800522
+male,group B,associate's degree,standard,none,87.04873437,85.75523436,73.3127158
+female,group C,some high school,free/reduced,none,55.74663245,65.49934198,62.51660525
+male,group D,some high school,standard,none,86.78977958,80.58939761,75.20874137
+female,group B,associate's degree,standard,completed,52.07747883,66.34751978,73.13246466
+female,group E,master's degree,free/reduced,none,45.56309223,56.51818004,54.05544432
+female,group C,some college,standard,none,72.86279209,72.94311622,71.63050544
+male,group D,high school,standard,none,57.51614929,50.63479093,54.88834548
+male,group A,some high school,free/reduced,none,68.83407306,72.72823675,64.02918686
+female,group C,some college,standard,completed,88.91931714,95.63635242,94.50036671
+male,group D,some college,standard,none,76.93758945,64.68149649,66.2412552
+male,group C,associate's degree,standard,none,46.54220259,43.2134181,42.08335095
+female,group B,bachelor's degree,standard,none,67.7859787,86.51101531,83.05789878
+male,group E,some high school,standard,none,92.44094961,87.42993976,78.91899415
+male,group C,bachelor's degree,standard,completed,83.21059602,82.41982487,84.87749923
+male,group D,associate's degree,standard,none,80.759657,75.01709039,77.67664018
+male,group D,bachelor's degree,free/reduced,none,63.70253795,66.91627512,67.22360783
+female,group D,some high school,standard,completed,64.280728,60.02768474,74.56368341
+male,group B,some college,standard,none,54.60913667,52.78932329,51.2798724
+male,group C,associate's degree,standard,none,84.49074182,80.60869133,80.02158399
+male,group D,high school,free/reduced,completed,73.38237802,68.14336045,66.32506975
+female,group E,bachelor's degree,standard,none,80.2589482,83.26216442,83.33795361
+female,group D,high school,standard,none,56.18857709,52.83090033,55.68402113
+male,group E,some college,standard,none,59.56518137,51.94518857,43.96956318
+male,group D,some high school,standard,none,75.16789883,74.66698002,69.29056805
+male,group C,associate's degree,standard,none,85.68401515,76.30719606,71.23425963
+male,group E,associate's degree,standard,none,89.44135611,76.89886485,74.63397039
+female,group B,high school,standard,completed,58.12952125,70.39975109,68.52032117
+female,group B,high school,standard,none,65.47049387,64.87844379,62.75328985
+male,group C,high school,standard,none,68.86792891,60.47103093,53.65725714
+male,group A,some high school,standard,completed,47.475975,49.02697658,49.51198612
+female,group D,some college,free/reduced,none,71.84864938,83.37033751,83.30419764
+female,group B,some high school,standard,completed,60.46615165,70.35930402,70.75760756
+male,group D,master's degree,standard,none,80.5328782,80.73718914,72.67377754
+male,group D,high school,standard,none,54.14794027,52.6669141,52.25411985
+female,group E,some college,standard,none,62.07607154,73.57384941,70.39071112
+female,group C,associate's degree,free/reduced,none,64.46971641,73.15869963,68.31078182
+male,group C,associate's degree,standard,completed,78.92644767,77.74602718,77.48481419
+female,group B,some college,standard,none,70.22519031,75.41977567,78.96397036
+female,group C,master's degree,free/reduced,completed,65.78390592,81.17053676,81.13073724
+female,group C,some high school,free/reduced,completed,64.80283966,79.04077664,77.36510132
+male,group C,some college,standard,completed,79.09472992,79.39018744,78.1942971
+female,group C,some high school,free/reduced,none,44.89630529,50.17902319,51.21170572
+female,group E,high school,standard,none,99.08680956,93.81029376,90.932474
+male,group D,high school,standard,none,76.15660336,73.31966077,68.0580812
+male,group D,some high school,free/reduced,none,59.83937065,42.29584312,41.29655073
+female,group C,bachelor's degree,standard,none,63.44144943,75.89794512,81.41344275
+female,group D,high school,standard,none,69.92072367,72.75158013,77.79782415
+female,group D,associate's degree,standard,completed,88.32933707,92.3849507,95.02394205
+female,group E,some college,free/reduced,none,71.69537351,76.87200477,70.20788904
+male,group C,bachelor's degree,standard,none,69.44993062,63.2889116,61.98143278
+male,group C,some college,standard,none,58.07925597,49.86234403,42.03433688
+female,group D,associate's degree,free/reduced,none,47.26222564,53.08728639,58.12592165
+female,group D,some college,standard,none,65.43643013,70.65079607,71.2765193
+male,group B,some college,standard,completed,88.02699751,85.85534501,76.10468897
+male,group C,bachelor's degree,standard,none,83.07221238,78.64880528,73.29756351
+female,group C,some high school,standard,completed,85.14867035,92.45421745,93.75133555
+female,group E,high school,standard,completed,59.64437135,63.16437218,75.34802993
+female,group C,some high school,free/reduced,none,65.92551455,86.97713582,80.05002308
+male,group B,bachelor's degree,free/reduced,none,73.48813454,56.91410318,57.3280697
+male,group D,high school,standard,none,53.27815349,52.47591948,42.92425193
+male,group D,high school,standard,none,45.18048461,48.38248974,46.80336265
+female,group D,bachelor's degree,free/reduced,none,73.40794643,79.09112886,84.2885479
+female,group D,some college,free/reduced,completed,70.70704936,78.05428896,78.56969502
+female,group B,some high school,standard,none,37.97879327,46.7331587,46.33878573
+male,group B,associate's degree,standard,completed,81.2960461,82.90050449,82.21343937
+male,group E,associate's degree,standard,completed,97.81163088,82.63543356,88.2729502
+female,group B,some high school,standard,none,67.54363404,89.78467564,82.88976069
+male,group B,bachelor's degree,free/reduced,none,88.47241316,75.94812402,76.70160815
+male,group E,some high school,standard,completed,77.1363174,76.38396521,77.98260443
+male,group C,associate's degree,standard,none,76.68651679,70.06115745,68.57684226
+male,group D,some high school,standard,none,86.93023691,73.80858768,70.91737762
+male,group C,some high school,standard,completed,63.78763826,60.71500889,57.42499904
+female,group E,bachelor's degree,standard,none,65.41701267,73.74346102,75.95796769
+male,group D,high school,free/reduced,completed,78.45873848,77.92462477,80.3512131
+male,group B,associate's degree,free/reduced,none,67.66366121,62.25375474,60.24540597
+male,group A,some high school,standard,completed,46.77163469,41.230489,43.12599825
+male,group E,associate's degree,standard,completed,71.605252,74.69237341,68.14399035
+male,group C,high school,free/reduced,completed,40.77115564,46.91578523,50.14071317
+male,group D,associate's degree,free/reduced,none,90.40284988,87.28123909,75.32775901
+male,group A,some college,free/reduced,completed,81.84445067,78.2728402,81.27021779
+male,group D,some high school,free/reduced,none,56.5584859,54.92161558,52.48954029
+female,group C,associate's degree,standard,completed,67.62497428,84.1153847,81.69995488
+male,group B,associate's degree,standard,none,80.6161903,76.2876802,64.70335829
+female,group C,associate's degree,standard,completed,74.06683309,75.87868529,83.85164968
+male,group A,some college,standard,none,69.9442117,67.67034302,69.85941199
+male,group E,some college,standard,completed,99.67618439,87.47694881,81.59894061
+male,group C,some high school,standard,none,51.87577756,52.67097945,44.78369374
+female,group B,associate's degree,free/reduced,none,53.07066865,71.36702657,67.80883314
+female,group D,high school,free/reduced,none,49.11076899,57.74790115,52.06069701
+female,group B,associate's degree,standard,none,73.69187607,76.48810111,80.42050917
+male,group B,bachelor's degree,standard,none,66.68026474,60.97708238,57.58096355
+male,group D,bachelor's degree,standard,completed,67.81330877,61.28428319,68.74108676
+female,group C,associate's degree,free/reduced,completed,68.57386604,67.14275531,69.44400341
+female,group C,bachelor's degree,standard,completed,59.52745997,64.70777169,75.38468168
+male,group C,high school,standard,none,71.19118481,66.39313888,65.18740507
+female,group D,master's degree,standard,completed,77.84460381,82.13696862,91.88152179
+male,group C,associate's degree,standard,none,83.34775514,72.08756882,78.95530934
+male,group B,bachelor's degree,standard,none,63.64185715,71.58512825,69.42706357
+female,group D,associate's degree,free/reduced,none,56.44007459,65.36575419,63.31146356
+female,group C,high school,free/reduced,completed,67.12596782,79.34463898,84.94193251
+female,group E,high school,standard,none,75.2083874,86.96750478,79.48594806
+female,group C,some college,standard,none,71.76706056,81.75174261,80.71582874
+female,group C,some high school,free/reduced,none,43.08132108,53.32439704,53.24579553
+female,group C,high school,free/reduced,none,41.45745719,46.52067274,43.91768237
+female,group C,some college,standard,none,82.79698699,90.55666519,94.2576125
+male,group C,some college,standard,none,61.81067532,61.71841468,62.0571358
+male,group A,some college,free/reduced,none,28.66961698,23.23986395,19.90032182
+male,group C,associate's degree,standard,completed,82.50572875,75.64901952,77.70717571
+female,group B,some high school,standard,none,41.73710784,55.89633973,51.50843893
+male,group C,high school,standard,none,71.43499221,60.48237101,61.14407612
+male,group C,associate's degree,standard,none,47.66391714,37.55690374,35.7279526
+male,group E,associate's degree,standard,completed,62.96671446,56.51215049,53.0650443
+male,group B,associate's degree,standard,none,90.1968861,78.95848322,81.92533378
+female,group C,bachelor's degree,standard,none,83.70219168,93.43204616,95.95949313
+female,group B,some college,free/reduced,none,61.97173252,68.30670705,66.85548132
+male,group D,some high school,standard,completed,76.9546834,70.43434665,69.23463932
+male,group C,associate's degree,standard,none,49.84990839,51.79865153,43.75414131
+female,group B,some high school,free/reduced,none,24.16558599,38.36348781,27.68658653
+female,group D,some high school,free/reduced,completed,35.31550831,55.06799012,60.95693076
+male,group C,high school,free/reduced,none,58.98993195,61.40558066,52.54723412
+female,group C,high school,standard,none,61.25748144,73.96653947,63.96557286
+female,group B,high school,standard,completed,69.07283149,76.92270716,74.3020976
+male,group D,associate's degree,standard,completed,67.56509417,72.25337461,67.55302189
+male,group D,some college,standard,none,79.18999745,73.859757,67.21440359
+female,group C,high school,standard,none,72.95055363,80.96142935,75.24158923
+male,group B,some college,standard,none,62.22382064,61.20081584,57.71001282
+female,group C,bachelor's degree,standard,completed,77.47093496,94.36762074,95.10196594
+male,group D,high school,free/reduced,none,75.51964006,74.32929656,66.72693563
+male,group E,associate's degree,standard,none,87.16496648,74.59878142,76.23045309
+female,group B,bachelor's degree,standard,none,52.11592434,65.15970536,69.55025499
+male,group E,some college,standard,none,66.12635539,57.06117987,52.43138979
+female,group C,some college,standard,completed,63.70241956,78.82161178,80.86509667
+female,group C,associate's degree,standard,none,46.63378084,58.48608353,57.18850825
+female,group C,some college,standard,none,59.07385404,71.24358773,70.8758731
+female,group B,bachelor's degree,standard,none,61.73413259,72.32781101,70.23068979
+male,group A,associate's degree,standard,none,63.77601103,61.27475974,61.31221499
+female,group C,some college,free/reduced,completed,42.19092673,66.08427801,69.77149952
+male,group D,some college,free/reduced,none,59.71903708,62.05129025,61.71129062
+female,group D,some college,standard,none,80.96737091,90.83127706,89.29904043
+female,group B,high school,standard,none,58.46944456,62.4638189,59.55693088
+male,group B,some high school,standard,completed,85.94380822,84.87727769,78.1731626
+female,group C,some college,standard,none,52.72000487,58.71593943,58.44041675
+female,group D,some high school,free/reduced,none,27.15661719,34.40964241,32.09000834
+male,group C,some college,standard,none,59.88006059,60.38058985,58.46820266
+male,group A,bachelor's degree,free/reduced,completed,49.06017868,58.95158205,60.55710833
+male,group C,high school,standard,completed,69.28170096,58.58662619,53.03022452
+male,group C,bachelor's degree,free/reduced,none,61.04763814,66.10446743,61.71435344
+female,group A,some high school,free/reduced,none,44.05402598,64.21616196,58.76679973
+female,group D,some high school,standard,none,73.78026023,84.74276255,85.32808385
+male,group E,some college,standard,none,84.07724718,77.66237234,71.06549094
+female,group C,some college,free/reduced,completed,45.9587734,73.71946822,70.28644725
+male,group D,some high school,standard,none,74.39626963,74.57646732,72.42185216
+female,group D,some college,standard,completed,82.37477119,97.3435236,96.62206514
+female,group D,bachelor's degree,standard,none,59.10080517,70.59773823,73.22073116
+male,group E,associate's degree,free/reduced,none,46.83112755,43.01503818,41.0283005
+female,group D,some high school,standard,none,80.80341448,90.08477321,82.95952129
+female,group D,master's degree,free/reduced,completed,85.7812924,95.44217383,100.6767587
+female,group A,some high school,standard,none,71.68361381,83.68194034,77.01174069
+male,group A,bachelor's degree,standard,none,66.21814871,64.78696512,62.10509132
+female,group B,associate's degree,standard,none,80.83413813,86.6004956,83.57385976
+male,group C,associate's degree,standard,completed,87.88032447,100.814575,95.13515965
+male,group C,master's degree,free/reduced,none,79.6373016,81.78643483,71.88976789
+female,group E,some high school,free/reduced,none,38.53030765,49.28130038,45.1493276
+female,group A,some high school,free/reduced,none,38.39275314,43.50088323,43.57381476
+female,group E,some college,standard,none,67.26421435,76.36274001,75.0884271
+female,group E,bachelor's degree,standard,none,64.57230615,73.6894099,70.35504403
+female,group C,associate's degree,free/reduced,none,57.19770994,78.90422319,67.77733046
+female,group D,high school,standard,none,62.61406138,64.63743299,64.26472641
+male,group D,master's degree,standard,none,73.09065845,70.32591544,75.88646969
+male,group E,some high school,free/reduced,completed,73.40891679,67.5570344,59.17872863
+female,group D,some college,standard,none,77.80745876,68.73129066,77.96027764
+male,group E,some college,standard,none,76.02736198,67.75478714,67.61801695
+male,group C,associate's degree,standard,completed,57.29779299,54.95650578,56.03953249
+female,group C,some high school,standard,completed,65.82870152,74.49284111,77.81679301
+male,group A,high school,free/reduced,none,48.29852935,45.38498312,41.71789657
+female,group B,high school,free/reduced,none,50.69236663,67.69944113,63.76905411
+female,group C,associate's degree,standard,none,85.15014272,89.78408162,95.27039851
+male,group B,some high school,standard,none,74.60407454,63.47867977,57.45922959
+male,group D,some high school,standard,none,60.5072241,59.81307748,54.89768273
+female,group C,some high school,standard,completed,59.0102477,54.57050721,67.68490723
+male,group A,some college,standard,none,53.33365912,43.26359289,43.76236835
+female,group A,some college,free/reduced,none,49.59950514,65.54889041,55.06936357
+female,group D,high school,standard,completed,88.89520878,99.72438511,100.444508
+female,group C,high school,standard,none,54.75894949,59.43675904,62.39705946
+female,group C,some high school,standard,none,63.24444882,73.03453774,68.34059978
+male,group B,associate's degree,standard,completed,65.28254352,65.3237448,63.50918939
+female,group B,associate's degree,standard,none,82.94935715,80.0163412,77.46750875
+female,group D,high school,free/reduced,completed,52.85031316,57.50352895,56.98439647
+male,group D,associate's degree,standard,completed,87.45857625,84.45226465,85.3840718
+female,group D,master's degree,standard,completed,70.87505933,71.84837432,74.5800651
+male,group E,some college,standard,completed,84.45940413,83.45562109,78.73410425
+male,group D,associate's degree,standard,none,71.9280982,66.26231377,60.72746302
+male,group B,some high school,standard,completed,63.62861442,67.45520329,67.30029656
+female,group C,bachelor's degree,free/reduced,completed,51.10348639,72.63797346,79.84432211
+male,group E,high school,standard,none,84.74144284,73.55119673,69.84212615
+male,group C,bachelor's degree,standard,completed,71.18245992,74.85964747,68.29532846
+male,group C,associate's degree,standard,none,74.64661384,73.77275375,67.80267003
+male,group D,some college,standard,none,68.24467538,59.07263907,62.9747077
+male,group E,high school,free/reduced,completed,57.35741092,56.88620328,54.62515737
+female,group C,associate's degree,free/reduced,completed,82.13259541,93.78755,93.18952741
+female,group D,high school,standard,completed,57.01825036,58.11996717,64.56147323
+female,group D,master's degree,free/reduced,completed,47.55818105,58.02931054,67.55125104
+female,group A,some high school,standard,completed,59.31347573,85.78539362,80.62646928
+male,group B,some college,free/reduced,none,41.01740903,39.14550644,34.27813947
+female,group C,some college,free/reduced,none,62.07570331,67.18049303,62.83557315
+male,group C,bachelor's degree,standard,none,86.36328166,83.15992041,86.8855775
+male,group C,some high school,free/reduced,none,69.63893555,71.79077534,65.72476904
+male,group A,some high school,free/reduced,none,65.595449,59.5897083,53.83701868
+male,group C,some high school,free/reduced,none,68.92793696,63.07056822,54.12541221
+male,group C,associate's degree,free/reduced,none,64.18861079,66.04284174,59.80489115
+female,group C,high school,standard,none,61.06762504,72.42563757,70.330405
+male,group C,high school,standard,none,61.37755769,56.2397511,55.0831944
+female,group A,some high school,free/reduced,none,47.51079748,59.27406317,50.57623309
+male,group C,some high school,standard,none,73.05993277,66.14983897,66.37235825
+male,group C,some college,free/reduced,completed,50.76447361,48.62157957,53.24920786
+male,group D,associate's degree,standard,none,75.13483002,68.37101421,64.0733456
+male,group D,associate's degree,free/reduced,none,75.18024358,66.42875104,73.76911363
+male,group C,high school,standard,none,70.08781488,56.47998086,51.89200979
+male,group D,some high school,standard,completed,89.08576224,88.70167832,82.5913529
+female,group C,some college,standard,completed,67.54729931,81.80705899,79.70547997
+female,group D,high school,standard,none,78.78102177,81.90431456,80.55704257
+female,group A,some high school,free/reduced,none,59.73603263,73.11486623,69.1844462
+female,group B,associate's degree,standard,none,73.81784441,83.87349073,76.25492757
+male,group A,some high school,free/reduced,none,79.81617162,82.75979512,73.07813263
+female,group C,some high school,standard,completed,67.0263286,74.7512957,77.76452544
+male,group D,some college,free/reduced,none,69.64179064,66.68372114,60.76320547
+male,group C,high school,standard,completed,86.4407621,81.81455287,80.67096466
+male,group B,high school,standard,none,47.77671472,46.264257,42.70330365
+male,group B,associate's degree,standard,none,81.46874488,73.09808094,72.80073328
+female,group C,some college,free/reduced,completed,64.27639307,85.93959302,85.67060838
+female,group E,some college,standard,none,100.3659388,92.28334007,97.01174924
+female,group C,associate's degree,free/reduced,none,65.92163763,77.17942487,74.08042784
+male,group C,some college,free/reduced,none,65.63744893,58.93468382,49.87851294
+female,group C,associate's degree,free/reduced,none,53.71332614,61.28839996,62.5309888
+male,group C,bachelor's degree,free/reduced,none,37.64393237,56.27002636,47.42255367
+female,group D,bachelor's degree,standard,none,79.62456402,89.16488359,89.06738185
+male,group D,associate's degree,free/reduced,none,53.48315321,54.45792295,48.02707416
+female,group E,bachelor's degree,standard,none,100.7616219,100.1723025,100.4259077
+male,group B,high school,standard,completed,72.22192775,65.93438693,68.0210508
+male,group C,bachelor's degree,free/reduced,none,53.2568348,58.2614687,55.90329583
+male,group B,some college,free/reduced,none,54.67795293,54.08507763,45.75839213
+female,group E,some college,standard,none,71.3266384,70.05668121,76.73787121
+female,group C,some college,free/reduced,none,77.98582097,90.22985788,91.873641
+male,group A,bachelor's degree,standard,completed,75.28869967,58.73111425,62.30565372
+female,group C,some college,standard,none,84.91650881,87.5978512,91.97727338
+female,group D,associate's degree,free/reduced,none,26.75231567,31.82958189,38.51485272
+male,group A,high school,free/reduced,completed,72.01135519,67.12802294,65.69892709
+female,group A,high school,free/reduced,completed,77.73408415,88.18440782,85.06218826
+male,group C,some college,standard,none,91.55099317,74.04145051,76.14036781
+female,group C,associate's degree,standard,completed,83.29221053,85.83336968,90.83626141
+female,group C,high school,standard,none,63.42500433,69.48020011,74.05643274
+female,group C,associate's degree,standard,completed,68.67456255,86.81015869,84.18622704
+female,group D,some high school,standard,none,59.80952661,67.1928522,61.17604703
+female,group B,associate's degree,standard,completed,90.1537865,90.67300982,91.8171134
+female,group D,bachelor's degree,standard,completed,71.13599865,76.42346195,83.24467075
+male,group E,bachelor's degree,standard,completed,76.24921664,62.40389377,66.071049
+male,group D,associate's degree,standard,none,80.13395803,68.6711025,72.58094611
+female,group D,master's degree,standard,none,55.92174405,64.74802547,70.72521047
+male,group E,associate's degree,standard,none,76.45599752,71.55941142,67.27122872
+male,group B,high school,standard,completed,73.59030147,71.04600576,68.19781355
+female,group D,associate's degree,free/reduced,none,52.40348543,59.30020434,56.89493256
+male,group C,some college,free/reduced,none,68.32070619,68.31509331,61.14563365
+male,group A,high school,standard,none,59.45530435,52.60981838,46.08788245
+female,group B,associate's degree,standard,none,49.37983886,52.47693433,54.93151734
+male,group C,high school,standard,none,70.65519375,74.11491348,71.21417455
+male,group D,some college,free/reduced,none,61.50347538,47.78779835,56.65850004
+female,group C,associate's degree,free/reduced,none,60.11325997,75.42320502,74.75888919
+male,group B,some high school,standard,completed,64.1815961,53.62702897,57.76284953
+male,group A,associate's degree,free/reduced,completed,79.23144502,82.45556993,82.88589869
+female,group A,associate's degree,free/reduced,none,65.95219974,85.26717701,76.88008939
+female,group C,associate's degree,standard,none,64.64241845,64.22658254,70.54094775
+female,group C,some college,standard,none,83.4557793,83.13395457,90.88417224
+female,group C,bachelor's degree,standard,none,81.35589834,88.72041957,90.59496609
+female,group B,high school,standard,none,54.64425702,64.3480095,68.75204485
+male,group D,high school,standard,completed,68.56197793,64.08254861,66.21179833
+female,group C,some college,standard,none,54.60754258,48.62605428,52.11087822
+female,group D,some college,free/reduced,completed,59.39790592,78.03172463,76.1731651
+female,group B,some high school,standard,none,66.35304232,69.91136549,68.71303986
+male,group E,some college,standard,none,76.43882149,71.32844803,72.27742359
+female,group D,master's degree,standard,none,74.86643443,79.4652752,82.55110456
+female,group B,associate's degree,standard,completed,94.77417364,87.86095455,92.62242309
+male,group C,some college,free/reduced,none,63.57164316,61.28340886,54.29046134
+female,group E,associate's degree,standard,completed,95.90548079,89.78044719,92.16741401
+female,group D,master's degree,free/reduced,none,40.69432475,59.65344456,54.02578283
+female,group B,some high school,standard,none,82.62406273,82.97675539,80.90288906
+male,group A,high school,standard,none,68.77627517,70.4229487,66.80035356
+male,group B,bachelor's degree,free/reduced,none,55.86580618,59.55005358,54.08407355
+male,group C,master's degree,standard,none,79.93355828,78.62480535,77.8057538
+female,group C,bachelor's degree,standard,none,86.33203437,92.60534005,87.69501839
+male,group D,some college,standard,none,76.43155929,71.41060534,73.36508406
+male,group A,some high school,standard,none,64.18348224,50.41866717,43.34342911
+male,group D,some high school,free/reduced,none,62.57913661,49.78123132,52.80870918
+female,group B,some high school,standard,completed,54.50127895,61.64196578,62.81478718
+female,group B,master's degree,free/reduced,completed,77.28067596,97.60504835,94.78367511
+female,group C,some high school,standard,completed,76.70083311,87.83662508,85.32764424
+female,group D,some college,standard,none,74.48795314,89.37279355,84.86714321
+female,group E,some college,standard,completed,66.07925795,74.61032858,73.43455484
+female,group D,some high school,standard,completed,66.54673595,78.83775207,78.29958267
+female,group B,high school,free/reduced,completed,67.59443306,78.84042555,79.77950693
+male,group D,some college,standard,none,71.5921297,49.62482584,52.74028663
+female,group C,associate's degree,standard,none,91.2391924,86.51995573,84.88682998
+male,group D,bachelor's degree,standard,none,69.22522486,58.44739185,57.79135872
+male,group C,master's degree,free/reduced,none,54.22194137,59.69119598,50.02178083
+male,group C,high school,standard,completed,53.29294735,52.96197177,49.64310323
+male,group E,some college,standard,none,68.53533355,60.39957824,59.39718934
+male,group C,some high school,free/reduced,completed,56.28607952,61.61005289,60.56990102
+female,group C,high school,free/reduced,none,36.50965462,53.06352744,43.72737211
+female,group D,bachelor's degree,free/reduced,none,29.56673519,41.2063779,47.47935036
+female,group C,associate's degree,standard,none,62.69222342,74.45260533,70.51379052
+female,group C,associate's degree,standard,completed,68.31003742,67.36813032,73.78620334
+female,group C,some high school,standard,none,47.59534413,54.36541994,53.15678342
+male,group E,associate's degree,standard,completed,62.48053879,61.44023325,58.67488482
+female,group E,associate's degree,standard,completed,79.44236622,88.17692341,94.47717817
+male,group B,high school,standard,completed,73.14256658,69.75706288,68.01081093
+female,group C,bachelor's degree,free/reduced,completed,66.45109828,83.20635109,83.42792866
+male,group C,associate's degree,standard,completed,51.74545495,60.47623007,58.84593178
+female,group D,high school,standard,none,51.50522214,66.8169588,62.34401885
+male,group E,bachelor's degree,standard,completed,85.01214257,66.4639183,71.78010197
+male,group A,associate's degree,standard,completed,97.81515854,92.53706585,86.77810268
+male,group C,high school,standard,completed,75.61518402,69.42753673,68.17859478
+male,group D,associate's degree,free/reduced,completed,79.6355066,82.04586966,80.03508203
+female,group C,associate's degree,standard,none,81.38586458,77.78588826,79.160193
+female,group D,associate's degree,standard,none,82.98527514,95.42595473,89.8391793
+female,group D,master's degree,standard,none,64.34674686,63.3883348,66.61927482
+male,group E,some high school,free/reduced,completed,78.69691708,83.39180513,80.37676412
+female,group A,some high school,standard,completed,92.94059378,100.7774341,97.16665697
+male,group C,high school,standard,completed,72.59840279,67.59441887,64.36216751
+female,group C,high school,free/reduced,none,62.20770428,67.82619894,64.53597111
+male,group C,master's degree,standard,none,79.13663969,72.67137696,69.78553111
+male,group C,some high school,free/reduced,none,79.80732529,76.43048653,65.90713324
+male,group B,bachelor's degree,free/reduced,completed,87.33122382,90.84835379,88.67685633
+female,group B,associate's degree,standard,none,40.74879507,48.40672855,50.4408972
+male,group D,some college,free/reduced,none,77.49346824,62.53950619,64.51744761
+male,group E,associate's degree,standard,none,53.02305058,45.66466425,40.53249541
+female,group C,some college,free/reduced,none,32.92093729,39.55303287,33.81956136
+female,group C,associate's degree,standard,completed,55.8820544,72.06976172,79.87975206
+male,group C,master's degree,free/reduced,none,61.65017906,67.84703541,66.39919681
+female,group B,associate's degree,free/reduced,none,53.91046683,70.89798117,70.85993102
+male,group D,some high school,standard,none,73.17937178,66.95121767,62.11646212
+female,group D,some college,standard,completed,74.74808318,75.64167785,79.07048351
+female,group C,some college,standard,none,63.93164622,74.50837335,74.50961128
+male,group C,bachelor's degree,standard,completed,96.13396309,90.56896776,92.55414388
+female,group D,some college,free/reduced,completed,63.05958574,80.91915125,80.38712891
+male,group B,bachelor's degree,free/reduced,none,48.20402093,51.79938352,46.66838934
+male,group B,associate's degree,standard,none,48.89012488,43.06406243,45.05047451
+female,group E,bachelor's degree,free/reduced,completed,92.87541001,100.3505968,100.1565365
+female,group D,master's degree,free/reduced,completed,61.13829005,71.01398883,78.71333106
+male,group B,high school,free/reduced,none,63.68561787,48.55396229,47.68063373
+male,group D,bachelor's degree,free/reduced,none,68.65825519,68.55824892,67.47079254
+male,group B,some college,standard,completed,71.53869848,75.25695127,70.6621092
+male,group A,bachelor's degree,standard,none,91.544828,96.94214776,92.55002143
+female,group C,some college,standard,none,53.32726664,62.86733653,56.92479492
+female,group C,high school,free/reduced,completed,50.11069557,66.35574698,64.72134695
+female,group E,high school,standard,none,74.07608075,81.23056694,71.20800792
+male,group A,associate's degree,free/reduced,completed,40.53880875,55.58709172,53.66202091
+male,group A,some college,standard,completed,61.22397778,51.92286036,52.62546133
+female,group B,high school,standard,none,81.17302082,91.59879719,89.31279917
+female,group B,some college,free/reduced,completed,48.11824069,56.69198826,58.64734908
+female,group D,master's degree,standard,none,53.33476742,61.51442272,68.59844604
+female,group D,some high school,standard,none,81.70945745,97.56152705,96.25102899
+female,group E,some high school,standard,none,77.28291607,79.25844998,80.86828516
+female,group D,bachelor's degree,free/reduced,none,63.43804097,73.79923595,78.64177704
+female,group D,associate's degree,standard,completed,73.31577804,75.19360973,80.16079578
+female,group D,some college,standard,none,69.64487486,77.50631316,77.73179784
+female,group C,associate's degree,standard,none,65.17476505,76.74841656,76.6358561
+female,group A,high school,standard,none,55.14393296,73.32173564,73.87504922
+female,group C,bachelor's degree,free/reduced,none,44.25400578,63.81601232,62.62127764
+female,group C,some college,standard,none,54.21848641,64.22981873,65.81296883
+female,group A,some high school,standard,none,48.13627652,66.87356547,65.85165909
+male,group C,some college,free/reduced,none,58.90780289,57.13738397,54.13997391
+male,group A,some high school,standard,none,71.31879743,62.57705244,50.37276649
+male,group E,bachelor's degree,standard,none,68.03003815,68.92280492,64.51016957
+female,group E,high school,standard,none,74.01923042,76.82402813,73.88740728
+female,group C,bachelor's degree,standard,completed,92.09677809,100.2203726,99.73674476
+female,group C,bachelor's degree,standard,completed,56.96355816,79.91999792,72.71067173
+male,group B,high school,free/reduced,none,30.4736146,24.1551868,15.86112978
+male,group A,some high school,standard,none,53.3969564,54.84334469,48.0868397
+female,group D,high school,standard,none,69.67854919,77.20833198,73.48576158
+female,group D,some high school,standard,none,65.77044104,82.9488787,81.34792153
+female,group D,master's degree,standard,none,54.40714734,60.24819478,63.42646747
+female,group C,high school,standard,none,29.10045508,29.7542798,30.71988641
+female,group E,some college,standard,none,76.91953061,78.97960247,80.86415078
+male,group D,high school,free/reduced,none,60.10812982,57.59795155,51.27840032
+male,group D,master's degree,free/reduced,completed,84.98199542,89.31711332,90.26874291
+male,group C,some high school,standard,none,75.07126075,72.70474083,62.46649283
+female,group C,associate's degree,standard,none,85.95132239,84.40761136,82.47397356
+female,group C,master's degree,free/reduced,none,40.4272432,58.62454211,54.05557425
+female,group E,some college,standard,none,61.26344382,64.19100003,62.90902142
+female,group B,associate's degree,standard,none,58.28934022,63.24740289,65.3550237
+male,group D,some college,free/reduced,completed,69.25811883,60.53856533,63.47490191
+female,group C,some college,standard,none,58.46737927,59.81391027,66.88046487
+male,group C,bachelor's degree,standard,completed,94.32538984,90.62991547,91.39368974
+female,group C,associate's degree,standard,none,65.01147423,77.64851796,74.93391497
+female,group A,associate's degree,standard,none,82.45502463,93.09868779,93.0781825
+female,group C,high school,standard,none,60.29315389,68.59694135,72.54177101
+female,group E,bachelor's degree,standard,none,37.61212693,45.84688957,38.08072262
+male,group D,bachelor's degree,standard,none,88.11552637,78.43770016,83.85707597
+male,group D,master's degree,standard,none,95.75542088,81.70083348,84.63185608
+male,group C,associate's degree,free/reduced,completed,65.97006209,73.02087798,68.97638727
+female,group C,high school,free/reduced,none,35.05209365,61.05151987,54.77690432
+male,group B,bachelor's degree,free/reduced,none,62.65762118,63.52024891,56.96249063
+male,group C,high school,free/reduced,completed,58.98249945,51.80188992,52.24542812
+male,group A,some college,standard,completed,100.7827511,96.4597427,86.50721157
+female,group E,bachelor's degree,free/reduced,none,61.08926144,58.02125017,62.22320205
+male,group D,some college,standard,completed,100.360937,97.96966858,99.48660488
+male,group B,associate's degree,free/reduced,completed,69.17678057,70.39000108,63.86720523
+male,group D,associate's degree,standard,none,61.14020194,48.67049616,46.25709565
+male,group D,some college,free/reduced,none,49.14829654,57.51548555,46.17485414
+female,group C,some high school,standard,completed,44.86044458,51.50428328,55.39661309
+male,group D,some college,standard,none,67.30717101,64.69209584,70.84529531
+male,group B,high school,standard,none,79.66231291,60.42360524,65.85134903
+female,group B,bachelor's degree,standard,completed,66.03038736,74.74814469,81.81054984
+female,group C,high school,standard,none,75.81241356,88.24191523,85.09380421
+male,group D,some high school,standard,none,84.65940089,84.11813159,80.3362459
+male,group A,high school,standard,none,71.40483954,74.95093054,64.25975388
+female,group B,high school,free/reduced,completed,67.88803542,80.53747427,81.80093207
+female,group D,some high school,standard,completed,80.84343178,92.54372086,88.72466387
+male,group E,some college,standard,none,86.56101813,76.85381786,74.03608357
+female,group D,associate's degree,standard,none,76.19637218,74.45630776,73.88575602
+male,group D,high school,standard,none,41.1611195,52.34642133,51.62512627
+female,group D,associate's degree,free/reduced,completed,74.36962163,88.75035772,90.41889737
+female,group B,some high school,free/reduced,none,72.10803027,81.11469286,79.81120204
+female,group E,high school,standard,completed,74.02293189,79.33847347,80.6773847
+male,group B,high school,standard,none,70.0873019,65.58194028,60.36073539
+female,group B,bachelor's degree,standard,completed,65.49283615,81.50967625,81.56151139
+female,group D,associate's degree,standard,none,59.76457533,70.51830597,65.27546824
+female,group E,high school,free/reduced,none,64.47895441,62.80261268,68.31549865
+female,group B,high school,standard,none,50.60532004,53.97631395,55.79005189
+female,group D,some college,standard,completed,69.30231871,79.63348297,81.60445031
+male,group C,some high school,free/reduced,completed,51.69168441,56.86889759,53.69670832
+female,group A,high school,standard,completed,68.38042319,80.6555595,76.53293616
+female,group D,some college,standard,completed,85.06141853,86.27227594,98.42421831
+female,group A,associate's degree,standard,completed,65.14118295,70.13301895,74.30833171
+female,group B,some high school,standard,none,73.57643756,79.35418583,79.98873829
+female,group B,some college,standard,none,62.23501729,67.86305558,67.15735534
+male,group C,associate's degree,free/reduced,none,77.71569064,67.44468706,64.12420431
+male,group D,some high school,standard,none,69.34927054,66.46459015,61.43877316
+female,group D,associate's degree,free/reduced,none,43.49446605,60.13188736,58.29977128
+male,group D,associate's degree,standard,none,90.17652036,87.54068707,85.33975776
+male,group C,some college,free/reduced,none,74.45592348,77.90268589,73.41720722
+male,group C,some high school,standard,none,73.7582622,66.20796511,63.15308194
+female,group D,some college,free/reduced,none,55.95541834,71.56618661,69.93753552
+female,group C,high school,standard,none,65.04412854,69.95231065,67.17908827
+male,group D,associate's degree,standard,none,80.95180078,63.31887579,63.73765268
+female,group C,some high school,free/reduced,completed,50.42922923,60.36544081,60.8474606
+female,group C,some college,free/reduced,completed,63.18464024,73.35402846,71.09076349
+female,group B,bachelor's degree,free/reduced,none,77.19438392,85.85735014,87.22415612
+male,group C,some college,standard,none,73.42559307,74.34258152,61.51995545
+male,group D,associate's degree,standard,completed,81.88486884,72.48573448,77.66553134
+female,group C,high school,free/reduced,none,66.82909006,76.03469577,68.44946385
+male,group D,associate's degree,free/reduced,none,52.76779928,57.05445753,50.81861457
+female,group C,some college,standard,none,69.33465122,78.34388807,76.36219651
+female,group C,associate's degree,standard,completed,65.85049992,84.42545471,84.14466942
+female,group D,high school,standard,completed,69.95964088,77.3814748,78.41814197
+female,group B,some college,standard,completed,50.58859789,64.07010938,66.08735014
+female,group E,some college,standard,completed,73.67501757,78.50982647,76.29427424
+female,group C,some high school,standard,completed,70.67330195,82.41666401,76.47107132
+male,group D,associate's degree,free/reduced,none,81.20907698,75.24749832,78.47719306
+male,group D,some college,free/reduced,none,63.23793539,61.30313638,60.82819851
+female,group D,high school,standard,none,67.94491686,72.66918168,74.83955044
+male,group B,high school,standard,none,60.98046738,68.54269018,60.49926115
+male,group B,high school,standard,none,62.07886688,55.72914966,54.49346004
+female,group C,some high school,free/reduced,completed,29.6342982,40.55291861,44.26983353
+male,group B,some college,standard,completed,62.25256061,66.35365277,68.58300815
+female,group E,master's degree,standard,completed,94.94415148,99.98202314,100.0849883
+male,group E,some college,standard,completed,85.49250166,75.91815942,68.29564653
+male,group D,associate's degree,free/reduced,none,77.69241898,78.61255221,73.48455997
+male,group A,high school,free/reduced,none,53.59526601,58.22492388,44.61296006
+male,group E,some college,free/reduced,none,93.63212581,90.44305485,83.8761854
+female,group C,associate's degree,standard,none,49.90214665,53.79277578,53.54497058
+female,group E,associate's degree,free/reduced,none,73.42022365,76.94985488,78.82038273
+female,group C,bachelor's degree,free/reduced,completed,66.88749368,74.79220254,81.42724727
+female,group D,associate's degree,standard,none,77.66102811,77.05337288,73.73729838
+female,group C,some high school,standard,none,49.82273317,63.63630035,56.4426189
+female,group D,some college,free/reduced,none,79.85170772,89.57042124,86.28235915
+female,group C,associate's degree,standard,completed,75.33260954,82.96027873,90.67643123
+female,group A,bachelor's degree,standard,none,59.36042493,72.20406471,70.39499652
+female,group D,associate's degree,standard,completed,57.42997733,78.78568457,79.87260254
+male,group C,high school,free/reduced,none,66.04126577,66.39664651,59.54171051
+female,group E,bachelor's degree,standard,completed,79.48553154,81.51783504,82.50838794
+female,group B,some high school,standard,none,57.73773755,67.28658993,72.3380413
+male,group A,bachelor's degree,standard,completed,87.60258036,84.80766672,87.80180135
+female,group D,some college,standard,none,63.84469952,64.06568452,67.95069245
+female,group B,some high school,free/reduced,completed,59.30140408,63.93624631,64.25755613
+male,group A,bachelor's degree,free/reduced,none,62.81341772,72.02860529,65.506228
+male,group D,high school,standard,none,46.73876705,34.76997937,36.58904252
+male,group C,some college,standard,none,66.89871548,59.55236126,52.54206334
+male,group D,high school,standard,none,89.18744679,87.16354269,79.8250681
+female,group D,associate's degree,free/reduced,completed,42.57276838,61.81429015,58.52980917
+male,group C,some college,standard,completed,93.69784114,84.96313574,90.61067081
+female,group E,some high school,standard,completed,80.33727905,85.5769209,85.34836881
+female,group D,some college,standard,none,98.11068028,100.8218599,99.16075282
+male,group D,master's degree,standard,none,81.20378552,81.55741827,84.84421362
+female,group B,some high school,standard,completed,60.13578143,70.90208062,74.06963669
+female,group B,associate's degree,free/reduced,completed,76.04949853,94.70316871,87.01582984
+male,group C,associate's degree,standard,completed,73.85791905,78.98614443,72.18946189
+female,group C,associate's degree,standard,completed,96.85474162,96.87510373,99.6283168
+female,group C,high school,standard,none,76.49958942,76.88976926,74.95253977
+male,group E,associate's degree,free/reduced,completed,91.22621948,73.25449486,80.34576014
+female,group C,some college,free/reduced,none,62.618788,72.32240078,70.47096428
+male,group D,some high school,free/reduced,completed,55.96605309,59.57453797,59.85771724
+female,group B,some high school,free/reduced,completed,74.86833411,90.95079567,88.81061023
+male,group C,high school,standard,none,50.71912787,48.87650445,42.60887504
+male,group B,some college,standard,none,47.16492683,43.21916377,41.94503857
+male,group E,some college,standard,completed,81.3618159,74.7591802,71.13936127
+female,group E,associate's degree,standard,completed,65.79383814,75.30872635,77.97574086
+male,group E,some high school,standard,completed,68.56262354,51.82741761,57.98188862
+female,group D,high school,free/reduced,none,73.90608542,92.71942725,84.81492683
+male,group C,some college,standard,none,53.41770422,39.93783209,37.11067543
+female,group B,associate's degree,free/reduced,completed,68.75060757,77.45067844,80.80704321
+male,group A,some high school,free/reduced,none,55.81140164,46.42329611,43.87302034
+female,group C,some college,standard,completed,87.53502962,89.66283926,94.77470544
+male,group D,some high school,standard,none,55.70829673,47.82903547,44.33136473
+female,group E,some college,free/reduced,none,53.04793583,58.07576632,57.76649257
+male,group C,master's degree,standard,none,67.27211283,57.91502105,59.38895332
+male,group C,associate's degree,standard,none,92.88853145,79.86071971,84.32728123
+female,group B,some college,free/reduced,completed,53.13961545,66.62510328,73.42973673
+male,group D,associate's degree,standard,none,81.91430665,71.54361494,73.61147195
+male,group C,high school,free/reduced,none,61.86403853,60.80920403,55.41053634
+male,group D,bachelor's degree,standard,none,80.1132934,73.02289491,72.84440758
+female,group A,associate's degree,free/reduced,none,37.63593441,57.22169949,56.73141315
+female,group C,high school,standard,none,81.91901189,84.91818155,82.47262496
+female,group C,associate's degree,standard,completed,59.34333379,73.03965381,72.68725198
+male,group B,some college,free/reduced,none,55.47032899,55.3915269,47.807623
+male,group D,associate's degree,standard,none,72.57173807,79.60529974,74.76678694
+male,group D,high school,standard,none,69.05887526,75.48389102,71.27302178
+male,group C,some college,standard,none,69.29552713,64.62597431,68.40116006
+female,group C,bachelor's degree,free/reduced,none,50.74187463,60.87088222,59.26059751
+male,group B,some college,standard,completed,87.8632099,84.60084827,86.82076698
+male,group D,some high school,standard,completed,71.67907542,69.24546944,68.25722724
+male,group E,some college,standard,none,68.9203825,72.28417331,65.31371884
+male,group C,master's degree,free/reduced,completed,79.6229332,77.88828924,75.44893578
+female,group C,some high school,standard,completed,77.49950807,90.69919993,85.80241488
+male,group C,associate's degree,free/reduced,none,58.34425139,55.19721724,53.36598023
+female,group E,associate's degree,standard,none,84.78367568,95.26764178,92.0966189
+male,group D,some college,standard,none,55.60254037,58.58553448,52.58139899
+male,group E,bachelor's degree,free/reduced,completed,70.0404386,68.06663614,72.47673888
+female,group D,some college,free/reduced,completed,52.03792711,59.29903475,65.9345668
+male,group B,some college,standard,completed,69.54898472,77.74590279,77.31676234
+female,group C,high school,free/reduced,none,53.54721934,72.95943445,64.41493389
+female,group D,some high school,standard,none,48.54834158,58.35133827,54.68768207
+male,group D,some high school,standard,completed,78.12252133,81.70660092,86.90394253
+female,group B,high school,standard,none,62.58185873,62.68294143,63.36020991
+male,group D,some college,standard,none,60.64891651,63.73037314,59.52760031
+female,group B,high school,standard,none,74.57960174,72.7324138,72.92272129
+female,group C,high school,standard,completed,58.86559113,75.63992885,77.47810615
+male,group B,high school,standard,completed,76.71481018,62.98088161,60.57377688
+female,group D,some high school,standard,none,68.04737499,71.20441887,75.38461158
+male,group A,some college,free/reduced,none,58.90470611,60.3030889,57.61417869
+male,group B,high school,standard,none,52.06519123,48.6061132,49.32224774
+male,group D,bachelor's degree,standard,none,75.79995304,73.1381206,74.3194601
+female,group B,some high school,free/reduced,completed,52.543795,67.44091364,72.38152491
+female,group C,bachelor's degree,free/reduced,none,62.4741538,78.96355082,79.77493876
+male,group B,some college,standard,none,66.1177647,65.33070072,60.18347889
+female,group B,some high school,free/reduced,none,49.56051541,58.89547691,55.09164454
+female,group B,high school,standard,none,66.1207822,72.77202179,70.16395254
+female,group C,some college,free/reduced,none,35.37034174,44.47480716,43.2441316
+female,group A,some college,standard,completed,72.9011324,79.46849111,82.25294514
+male,group E,associate's degree,standard,completed,94.15839768,85.23136523,82.4661847
+female,group D,associate's degree,free/reduced,none,46.03043075,56.40088853,57.66301316
+female,group B,master's degree,standard,none,77.74408098,90.79697879,84.69230929
+female,group B,high school,free/reduced,completed,76.68166621,85.06108177,82.16318678
+female,group C,associate's degree,standard,completed,52.27315823,59.33087218,62.55614536
+male,group C,bachelor's degree,standard,completed,91.86771301,81.11845486,79.1664456
+female,group B,some high school,standard,completed,32.3935799,51.78693666,44.97973083
+female,group E,some high school,free/reduced,none,72.10061985,79.09792225,77.03497841
+female,group B,some college,standard,none,19.90887224,38.64516683,32.76696941
+male,group C,associate's degree,free/reduced,none,68.72441265,65.39845119,61.85603308
+female,group C,master's degree,free/reduced,none,52.24147439,65.95131482,61.60765708
+female,group B,high school,standard,none,48.57607569,62.93271902,60.44211518
+female,group D,some college,free/reduced,none,60.38724132,66.39030856,70.89294166
+male,group D,high school,free/reduced,none,66.70424057,74.25580063,69.75567163
+male,group E,some high school,standard,completed,89.57675026,84.29371689,77.85061745
+female,group B,high school,standard,none,42.09649237,52.7362116,51.04939263
+female,group E,associate's degree,free/reduced,completed,57.18550938,68.75295214,73.32163079
+male,group D,high school,standard,none,70.95449315,70.4225526,70.07795086
+female,group E,associate's degree,free/reduced,none,70.54096432,84.10553674,81.14257737
+male,group E,some college,standard,none,69.48169938,60.28140427,54.4692045
+female,group C,associate's degree,standard,none,52.17992656,55.08689075,57.04792775
+male,group C,some high school,standard,completed,67.54416258,73.42976724,68.02751526
+male,group C,some high school,standard,completed,76.2996626,80.56167813,73.59075329
+female,group E,associate's degree,standard,none,87.73274968,94.85716726,95.64052142
+female,group B,some college,standard,none,82.14066696,85.41638137,87.31913699
+female,group C,some college,standard,none,73.31470534,76.01473664,78.82587287
+male,group A,some college,free/reduced,none,75.06611125,81.5197891,74.89659622
+female,group D,some college,free/reduced,none,64.56111377,74.89416531,75.50795899
+female,group E,high school,free/reduced,none,41.94463104,45.33573486,40.12214772
+male,group C,high school,standard,none,90.90774088,75.42090667,69.04009971
+male,group B,bachelor's degree,standard,none,59.92148075,54.75556025,51.22147803
+male,group A,some high school,standard,none,51.03971279,31.62270324,36.8942331
+male,group A,high school,free/reduced,none,45.31326264,47.19169869,49.79095312
+female,group C,master's degree,standard,completed,54.80144522,64.0521541,67.05301737
+male,group E,some high school,standard,completed,87.4401893,84.77853048,76.01553675
+female,group C,high school,standard,none,72.27119982,80.51054744,83.39757779
+male,group B,some high school,standard,completed,94.50596399,86.96974598,87.10005164
+female,group A,bachelor's degree,standard,none,45.50002697,59.34805426,64.56086744
+male,group D,bachelor's degree,free/reduced,completed,61.04324039,70.95173849,76.14634688
+female,group B,high school,free/reduced,none,60.38414713,72.14314831,68.3669784
+female,group C,some high school,standard,none,77.77917467,91.17824782,88.38157434
+female,group A,some high school,standard,completed,85.75245805,90.16232047,92.90754212
+female,group D,bachelor's degree,free/reduced,none,78.23931011,90.52856378,93.3698427
+male,group E,some college,free/reduced,completed,49.20850476,52.09347856,51.91350231
+female,group B,high school,free/reduced,none,71.94682768,87.75249055,82.441858
+female,group C,some high school,free/reduced,none,48.84641204,58.76806175,52.4558532
+male,group C,high school,standard,none,62.28659981,67.7416062,58.1338998
+female,group C,associate's degree,free/reduced,completed,56.77306048,68.07827495,70.19809339
+female,group C,some high school,standard,none,65.27535789,69.55373512,76.6734696
+female,group D,some high school,free/reduced,completed,69.22227795,86.15979428,81.27429279
+male,group B,some high school,standard,none,68.26677784,54.04489285,53.19916224
+female,group A,some college,free/reduced,none,61.57652513,60.23775554,57.26221625
+female,group C,bachelor's degree,free/reduced,completed,74.86879068,86.98937285,89.87928494
+male,group A,bachelor's degree,standard,none,64.58686711,60.15375778,58.69865705
+female,group B,high school,standard,completed,77.97315583,82.19080269,89.62460695
+male,group B,some college,standard,none,58.48381032,50.03765495,45.90501813
+female,group C,high school,standard,completed,60.19260903,64.44782886,74.98259092
+male,group E,high school,standard,none,73.70705371,64.46875981,57.04208374
+female,group A,high school,standard,completed,75.9596808,82.09664304,79.40214767
+male,group B,associate's degree,free/reduced,completed,58.75400332,57.29279969,53.55645812
+female,group C,associate's degree,standard,none,66.70767703,77.56304959,73.17920068
+female,group D,high school,free/reduced,none,39.15633828,52.87220933,46.46635552
+male,group C,some high school,standard,none,64.22333766,58.28433427,51.12507639
+female,group B,high school,free/reduced,completed,23.64355055,44.34946652,36.77140851
+male,group B,some college,free/reduced,completed,74.11612759,77.50659762,76.26220358
+female,group D,some high school,free/reduced,completed,40.22910251,65.22466091,64.2316162
+male,group E,master's degree,standard,none,90.08063031,85.67656525,84.20661111
+male,group C,master's degree,standard,completed,91.70662171,85.70094298,85.20128856
+male,group D,high school,standard,none,64.15378025,54.50965993,50.70300486
+female,group C,high school,standard,none,59.77109695,72.83966,68.86491328
+male,group D,associate's degree,standard,none,80.20505561,75.89816659,69.88129232
+male,group C,master's degree,standard,none,71.65741531,67.35833151,67.28321369
+female,group A,high school,standard,none,61.72032126,68.47791713,63.58783353
+female,group E,some college,standard,none,87.31142446,85.94100162,93.9424537
+male,group E,some high school,standard,none,82.19990582,67.33249999,61.89246353
+male,group C,some high school,standard,none,62.78997138,64.82323342,55.45806845
+female,group B,bachelor's degree,standard,none,97.87778337,97.02106373,96.79788671
+male,group B,some college,free/reduced,none,75.14111875,68.9546578,65.30422423
+female,group C,bachelor's degree,standard,none,65.38711875,79.66475987,81.52198473
+male,group B,high school,standard,completed,52.20760989,49.62705108,46.4167232
+male,group C,associate's degree,free/reduced,none,87.01681957,73.72343161,72.83181555
+female,group C,associate's degree,standard,none,53.29578127,62.65355087,53.61906154
+female,group E,master's degree,free/reduced,none,81.59822219,86.01110951,87.79859382
+male,group D,bachelor's degree,free/reduced,completed,39.78112596,42.44663983,38.4139163
+female,group C,some college,standard,completed,71.06008612,71.86344837,80.83760355
+male,group C,associate's degree,standard,none,97.17124621,93.13680222,91.3711215
+male,group D,some college,standard,completed,82.66147263,82.267713,88.19073047
+male,group C,high school,free/reduced,none,59.45616693,53.44981835,52.2597246
+male,group B,associate's degree,standard,none,61.07072876,42.483339,41.37537114
+male,group E,associate's degree,free/reduced,completed,78.3454037,74.63752414,72.19496097
+male,group C,associate's degree,free/reduced,none,49.22292958,51.88406615,51.84320649
+male,group B,high school,standard,none,59.9654961,58.6034532,47.96593407
+female,group C,some college,standard,completed,70.12866831,72.01135213,76.46753081
+male,group B,associate's degree,standard,completed,82.1184292,84.41356234,78.07380133
+male,group E,associate's degree,free/reduced,none,90.35002254,90.73289041,82.76356124
+female,group C,bachelor's degree,free/reduced,none,43.56298659,62.45257083,61.18429617
+male,group C,some college,free/reduced,none,80.92804862,64.48380133,66.63921217
+male,group D,some college,standard,none,81.45760889,82.03303532,84.96029655
+male,group C,some high school,standard,none,57.05286541,61.41607814,54.96655384
+female,group D,some high school,standard,none,59.39825532,72.04987171,80.16053426
+female,group D,associate's degree,standard,none,64.46855499,76.13710208,74.52981845
+male,group C,bachelor's degree,standard,completed,63.47956426,64.86208908,66.91224976
+female,group E,bachelor's degree,standard,completed,71.57282824,70.35151686,70.56268797
+female,group B,high school,free/reduced,none,64.80051736,73.2634232,71.95410878
+male,group D,bachelor's degree,free/reduced,none,55.3973119,46.42425295,44.51487011
+female,group E,associate's degree,standard,none,51.08021076,51.17425597,54.32964362
+female,group C,associate's degree,standard,completed,62.73860888,76.83062302,80.97676635
+female,group E,associate's degree,standard,completed,93.82558964,100.772143,95.6059012
+male,group C,high school,free/reduced,none,54.63452887,72.05108785,59.85296483
+female,group D,some college,free/reduced,none,69.03753963,65.24260462,74.20968784
+male,group D,high school,free/reduced,none,44.75564332,51.58751654,48.30588765
+female,group E,some college,standard,completed,86.39396545,85.02824336,91.82862579
+female,group E,associate's degree,standard,none,85.02969393,92.87640829,85.63638042
+female,group A,master's degree,free/reduced,none,50.78980741,67.48471038,73.07565658
+male,group D,some high school,standard,completed,88.79578255,74.43584983,75.07579139
+female,group E,associate's degree,standard,none,59.0717416,62.11365552,69.28113207
+female,group E,some high school,free/reduced,none,32.88904198,34.58811972,38.03864892
+male,group B,high school,free/reduced,none,36.04215209,29.27906038,27.24818995
+female,group B,some high school,free/reduced,completed,63.94403805,78.19556886,79.85823008
+male,group D,associate's degree,standard,completed,67.77062596,54.74037027,63.01993108
+female,group D,some high school,standard,completed,65.45548725,78.57433034,82.44677836
+male,group D,master's degree,standard,none,85.22119348,84.60948678,89.02821489
+female,group C,master's degree,standard,none,73.70426869,78.56207282,74.84827234
+female,group A,high school,free/reduced,completed,34.34005639,48.32148398,41.03467298
+female,group D,bachelor's degree,free/reduced,completed,93.20498306,100.2902636,100.6270203
+female,group D,some high school,free/reduced,none,67.05150048,84.29377033,84.75890292
+male,group D,some college,standard,none,88.2288161,77.91459584,77.83985279
+male,group B,high school,standard,none,57.30076621,48.75504942,51.12504679
+female,group D,some college,standard,completed,79.52490313,84.57509012,91.29171539
+female,group C,bachelor's degree,free/reduced,none,67.54361459,75.64228879,72.71351242
+male,group E,bachelor's degree,standard,completed,70.80443726,64.28679579,70.44974741
+male,group D,bachelor's degree,free/reduced,none,50.83059468,42.69195737,48.0315756
+female,group A,some college,standard,none,69.87650881,84.89201011,82.79059816
+female,group C,bachelor's degree,standard,completed,52.40285799,61.20006744,66.6292267
+female,group C,bachelor's degree,free/reduced,completed,47.14929352,62.57390499,66.36497021
+female,group B,associate's degree,free/reduced,none,46.69404495,61.03053388,55.62755227
+female,group E,some college,standard,none,68.83701119,70.94697481,66.67603769
+male,group E,bachelor's degree,standard,completed,100.1984952,100.7285895,100.1633344
+female,group C,high school,standard,none,44.61675075,61.55943273,52.69013303
+female,group C,associate's degree,standard,completed,57.50779923,77.51947551,80.10403423
+male,group B,some college,standard,completed,91.10771806,96.19735816,91.67063146
+male,group D,high school,free/reduced,none,69.22055131,70.84219469,67.64921822
+female,group C,high school,free/reduced,none,35.48515329,53.11656481,46.80747649
+male,group D,high school,standard,none,72.32082741,66.38621483,66.92098974
+female,group B,associate's degree,free/reduced,none,54.42577731,65.89726343,65.1889622
+male,group D,high school,free/reduced,none,74.70467162,70.70058892,69.80792157
+male,group E,some high school,standard,completed,74.14628529,64.14243837,60.72707557
+male,group E,associate's degree,free/reduced,none,64.97906462,56.22819038,52.55862217
+female,group D,high school,free/reduced,completed,65.58873421,61.37722671,71.31207486
+male,group E,associate's degree,free/reduced,completed,46.8421714,43.75182891,44.82584209
+female,group C,some high school,free/reduced,none,48.90760916,56.01883549,51.63078357
+male,group C,some college,free/reduced,completed,67.90517461,74.01113858,70.62080475
+male,group D,some college,free/reduced,none,62.85981437,57.62016629,62.68636551
+male,group D,associate's degree,free/reduced,completed,61.26501975,71.60439999,73.24236189
+male,group C,bachelor's degree,free/reduced,completed,70.58658713,75.06222279,74.84173304
+male,group C,associate's degree,standard,completed,98.32108351,87.10273086,90.38250345
+male,group D,some college,free/reduced,none,70.67644895,63.36361779,58.82522929
+male,group A,associate's degree,standard,none,67.64471719,57.27376618,53.91298031
+female,group E,high school,free/reduced,none,57.57143002,58.15624719,57.12571595
+male,group D,some college,standard,completed,85.01356798,81.69689498,85.25568922
+male,group D,some high school,standard,completed,77.68196812,68.64419875,69.06757818
+male,group C,master's degree,free/reduced,completed,72.3158417,66.95138992,72.77941216
+female,group D,master's degree,standard,none,78.68394597,91.3475032,96.90536929
+male,group C,high school,standard,none,81.041236,66.14966427,64.41672646
+male,group A,some high school,free/reduced,completed,61.22313219,62.6451722,61.91243513
+female,group B,high school,standard,none,58.96845099,68.94230219,61.50568814
+female,group C,associate's degree,standard,none,54.59496642,61.17464971,58.16831471
+male,group B,high school,standard,none,82.17936106,82.95283243,80.08866212
+female,group D,some college,free/reduced,none,49.06350273,58.12020934,60.07903964
+male,group B,some high school,free/reduced,completed,49.43927493,50.2857467,52.11601918
+female,group E,high school,free/reduced,completed,57.22972122,75.10730933,73.77889017
+male,group E,high school,standard,none,94.13896448,73.49786085,71.18371022
+female,group D,some college,standard,completed,75.7438237,77.26339695,83.75695738
+female,group E,some high school,free/reduced,none,74.82356,74.17209796,72.13445549
+male,group C,high school,standard,completed,58.73829405,52.52972976,54.43420851
+female,group C,some college,standard,none,62.08608463,69.40887111,69.95077213
+male,group E,associate's degree,standard,none,72.32189128,57.23132934,62.94365472
+male,group C,some college,standard,none,84.02783545,87.01881882,81.81965991
+female,group D,master's degree,standard,none,92.71526797,100.6830499,100.4950101
+female,group D,high school,standard,none,45.72104147,63.18313207,59.8262688
+male,group C,high school,standard,none,75.69729859,81.14267814,71.73790879
+female,group A,some college,standard,none,56.84165918,58.60583119,64.87414876
+female,group D,some high school,free/reduced,none,48.34221771,54.49513506,53.94704139
+female,group E,associate's degree,standard,none,100.3778401,100.8190977,100.7295624
+female,group C,some high school,free/reduced,completed,65.54156257,76.6074001,75.59425139
+male,group D,some college,standard,none,72.7629494,57.17845085,58.53474717
+female,group D,some college,standard,none,62.22944202,70.83919773,72.19867865
+male,group A,some high school,standard,completed,66.04773079,68.79716597,64.81471751
+male,group C,some college,standard,none,63.94440169,63.69330017,60.71788089
+female,group E,associate's degree,standard,none,68.84655736,76.52186115,67.15106225
+female,group B,bachelor's degree,standard,none,75.21661073,84.1871153,80.38698483
+female,group D,bachelor's degree,standard,none,89.61375679,100.8861545,100.2525821
+male,group C,some high school,standard,completed,78.30188082,72.20763869,69.38242907
+female,group A,high school,free/reduced,completed,53.88105287,50.87407045,60.35158669
+female,group D,some college,free/reduced,none,49.17960486,65.63505841,61.37675351
+female,group A,some college,standard,none,54.42148144,63.4854954,67.16908873
+female,group C,some college,standard,completed,64.55497545,82.23040923,77.97770255
+male,group B,some college,free/reduced,completed,60.73255581,62.98043101,60.60673979
+male,group C,associate's degree,standard,none,62.62914271,65.04777455,58.15366689
+male,group D,high school,standard,completed,55.89923349,41.36238154,48.11724203
+female,group C,associate's degree,standard,none,91.06185454,95.19860742,94.73302378
+female,group B,high school,free/reduced,none,8.792412367,24.3003066,23.32126606
+male,group D,some high school,standard,none,81.25490215,78.04873384,78.20455054
+male,group B,some high school,standard,completed,79.35426823,85.12521503,86.43814235
+female,group A,some college,standard,completed,78.71961057,87.51639558,91.42274757
+female,group C,some high school,standard,none,74.69545246,75.98939358,82.19024327
+male,group A,high school,standard,none,57.91737724,51.97779799,54.11633239
+female,group C,associate's degree,standard,none,40.90367181,59.52831585,51.04580735
+male,group E,some high school,standard,completed,81.1357932,75.51150488,76.28885741
+female,group A,some high school,free/reduced,none,44.22455525,45.11846637,45.33014956
+female,group D,some college,free/reduced,completed,67.2264772,86.79254445,83.89832817
+male,group E,high school,free/reduced,completed,86.64690903,81.77999356,75.65798953
+female,group B,some high school,standard,completed,65.2743795,82.06259995,78.17001365
+female,group D,associate's degree,free/reduced,none,55.52110014,76.48042946,76.64967453
+female,group D,bachelor's degree,free/reduced,none,62.12025963,72.77356649,74.70617209
+male,group A,high school,standard,none,63.97346064,63.92589184,62.72662383
+female,group E,master's degree,standard,completed,88.57815185,99.46131293,95.69589302
+male,group C,high school,free/reduced,none,62.22958805,55.10684678,55.98835085
+female,group C,high school,free/reduced,completed,59.53222754,71.70924796,65.40851138
+female,group D,some college,standard,completed,68.23438925,78.6073126,77.96082453
+female,group D,some college,free/reduced,none,77.65268673,86.91492542,86.68499761
